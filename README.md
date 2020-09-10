@@ -99,7 +99,7 @@
 ## 联系我
 - 微信：注明-工作
 
-![](http://om8hmotom.bkt.clouddn.com/2017-06-08-204819.jpg)
+![](https://raw.githubusercontent.com/yooabe/Resume/master/WeChat.png)
 
 - 邮箱： ***heyseaz@sina.com***
 
