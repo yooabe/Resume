@@ -51,7 +51,7 @@
 
 - [Github源码](https://github.com/yooabe/vue-magazine)
 
-- 简单介绍：My magazine是一个分享杂志的平台，支持注册登陆，收藏杂志以及移出收藏夹操作。
+- 简单介绍：My magazine是一个分享杂志的平台，支持注册登陆，增删操作。
 
 - 这个应用综合**Vue全家桶**以及后端数据**LeanCloud**的搭配使用，加深了对Vue对理解。由于对LeanCloud只是初步学习，所以对于收藏操作仅为于一次性操作，并不会储存到云，后续会进一步学习。
 
